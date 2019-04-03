@@ -14,28 +14,39 @@
 >  7. **更多** ：持续开发中，尽情期待，您可以在留言区提出您宝贵的意见和建议，我将一一回复您的问题及疑惑。
 
 ## Spring A.S源码
-[前端Vue-github地址](https://github.com/HaoNanYanToMe/SpringASVue) 
+[前端Vue-github地址](https://github.com/HaoNanYanToMe/SpringASVue)
+
 [服务端Java-github地址](https://github.com/HaoNanYanToMe/SpringAS) 
 
 ## 更多有关Spring A.S的资料
 [【Spring A.S】技术选型及框架逻辑](https://blog.csdn.net/qq_27047215/article/details/88972310)
+
 [【Spring A.S】核心组件：SqlEngine使用手册：概要](https://blog.csdn.net/qq_27047215/article/details/88989251)
+
 [【Spring A.S】核心组件：SqlEngine使用手册：查询条件（一）](https://blog.csdn.net/qq_27047215/article/details/88993116)
+
 [【Spring A.S】核心组件：SqlEngine使用手册：查询条件（二）](https://blog.csdn.net/qq_27047215/article/details/88993435)
+
 ## 前端示例图
 
 **系统菜单管理**：
 ![菜单管理](https://img-blog.csdnimg.cn/2019040210550474.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3MDQ3MjE1,size_16,color_FFFFFF,t_70)
+
 **菜单管理-权限设定**
 ![权限设定](https://img-blog.csdnimg.cn/20190402105623226.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3MDQ3MjE1,size_16,color_FFFFFF,t_70)
+
 **权限管理**
 ![权限管理](https://img-blog.csdnimg.cn/20190402105817445.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3MDQ3MjE1,size_16,color_FFFFFF,t_70)
+
 **菜单授权**
 ![菜单授权](https://img-blog.csdnimg.cn/20190402105945133.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3MDQ3MjE1,size_16,color_FFFFFF,t_70)
+
 **系统用户管理**
 ![系统用户管理](https://img-blog.csdnimg.cn/20190402110143633.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3MDQ3MjE1,size_16,color_FFFFFF,t_70)
+
 **数据优化（规则）引擎**
 ![优化引擎](https://img-blog.csdnimg.cn/20190402110313909.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3MDQ3MjE1,size_16,color_FFFFFF,t_70)
+
 ## 示例代码
 **相信您已经迫不及待了吧？接下来我将为您简单的介绍一下基本接口在前端的应用方法**
 
@@ -82,8 +93,11 @@
 ```
 查询结果
 ![查询结果](https://img-blog.csdnimg.cn/20190402113946630.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3MDQ3MjE1,size_16,color_FFFFFF,t_70)
-**感觉有些复杂？不用担心，我将在近期完善博客的同时开发一款小工具集成在项目中，使用这款小工具您可以轻松配置并获取指定的以上的代码~让您更加便捷的应用Spring A.S**
+**感觉有些复杂？**
+**不用担心，我将在近期完善博客的同时开发一款小工具集成在项目中，使用这款小工具您可以轻松配置并获取指定的以上的代码~让您更加便捷的应用Spring A.S**
 
 ——**更多关于Spring A.S信息还请关注我的博客~**
+
 ——**项目正在最终的调试，预计4月3日会正式上传至github~**
+
 ——**如果您有更好建议或意见可以在留言区给我留言~**
